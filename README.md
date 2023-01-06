@@ -11,7 +11,7 @@ Les machines à vecteurs de support (SVM) sont des modèles d'apprentissage supe
 | Tech | Description |
 | --- | --- |
 | Langage  | Python  | 
-| Bibliothèque  |   keras, seaborn, numpy, pandas,matplotlib    | 
+| Librairie  |   keras, seaborn, numpy, pandas,matplotlib    | 
 | Kernel SVM     |   RBF, Linear, Polynomial     | 
 
 # Résultats
