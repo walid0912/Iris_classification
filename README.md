@@ -16,3 +16,9 @@ Les machines à vecteurs de support (SVM) sont des modèles d'apprentissage supe
 
 # Résultats
 
+| Kernel | Classes | Attributs | Précision |
+| --- | --- |  ---  | ---  |
+| Par défaut | 3 | 2  | 96.66 %  |
+| Par défaut | 2 | 2   |  85% |
+| Par défaut | 2 | 4  |  96.7% |
+
