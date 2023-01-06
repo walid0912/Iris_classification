@@ -6,7 +6,7 @@ Classification SVM sur le jeu de données Iris en Python
 # SVM
 
 # Technologies utilisées
-
+|  |   |
 | :---         |          ---: |
 | Langage  | Python  | 
 | Bibliothèque  |   keras, seaborn, numpy, pandas,matplotlib    | 
